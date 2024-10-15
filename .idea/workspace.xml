@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8570f156-e22c-4c79-9889-dece3fd27241" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.py" beforeDir="false" />
+    <list default="true" id="8570f156-e22c-4c79-9889-dece3fd27241" name="Changes" comment="Добавил Маналаки">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,20 +12,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Oxotnichek/Python.git",
+    "accountId": "14cbed24-be6b-4af9-bd23-f020ef10ed25"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nTaANtYxxapFOBGXJs9QntUZsJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,6 +48,28 @@
       <option name="presentableId" value="Default" />
       <updated>1728999375810</updated>
     </task>
+    <task id="LOCAL-00001" summary="добавил пупок">
+      <option name="closed" value="true" />
+      <created>1729000040751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729000040751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавил Маналаки">
+      <option name="closed" value="true" />
+      <created>1729000098340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729000098340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавил пупок" />
+    <MESSAGE value="Добавил Маналаки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил Маналаки" />
   </component>
 </project>
